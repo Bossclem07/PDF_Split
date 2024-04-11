@@ -1,4 +1,4 @@
-<h1>Description</h1>h1>
+<h1>Description</h1>
 
 PDFSplit is a utility for splitting the pages of a PDF file into several unit PDF files.
 
